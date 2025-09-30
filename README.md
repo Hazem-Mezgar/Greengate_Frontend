@@ -38,7 +38,7 @@ Greengate_Frontend/
 
 Cloner le projet
 
-git clone https://github.com/ton-compte/Greengate_Frontend.git
+git clone https://github.com/Hazem-Mezgar/Greengate_Frontend.git
 cd Greengate_Frontend
 
 
